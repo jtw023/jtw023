@@ -3,12 +3,12 @@
 <h3 align="center"> Creator, lover, and supporter of open-sourced, community driven projects! </h3>
 <table style="color:blue">
   <tr>
-    <td> <br />- :exclamation: 2021 goals: contribute more to the wider github community. <br /> <br />
+    <td> <br /><br />- :exclamation: 2021 goals: contribute more to the wider github community. <br /> <br />
     - :book: Currently learning absolutely all the things! <br /> <br />
-    - :thinking: My original interest in software was actually born of curiosity.<br /> Turns out, that spark turned into a fire.<br /> <br />
+    - :thinking: My original interest in software was actually born of curiosity.<br /> Turns out, that spark became a fire.<br /> <br />
     - :memo: <a href="https://web-portfolio-8390e.web.app/">Portfolio</a> <br /> <br />
     </td>
-    <td> <br /><img alt="Jordan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtw023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=8B949E" /> </td>
+    <td> <br /><img width="453px" alt="Jordan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtw023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=8B949E" /> </td>
   </tr>
 </table>
 
