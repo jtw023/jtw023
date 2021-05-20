@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Jordan aka jtw023! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-<h3 align="center"> Creator, lover, and supporter of open-sourced, community driven projects! </h3>
+<h3 align="center"> Creator, lover, and supporter of libre, community driven projects! </h3>
 <table style="color:blue">
   <tr>
     <td> <br /><br />- :exclamation: 2021 goals: contribute more to the wider github community. <br /> <br />
