@@ -1,0 +1,6 @@
+[    1.954499] usbcore: registered new interface driver brcmfmac
+[    1.954643] brcmfmac 0000:05:00.0: enabling device (0000 -> 0002)
+[    2.064920] brcmfmac: brcmf_fw_alloc_request: using brcm/brcmfmac4364-pcie for chip BCM4364/4
+[    2.065511] brcmfmac 0000:05:00.0: Direct firmware load for brcm/brcmfmac4364-pcie.Apple Inc.-MacBookPro16,1.bin failed with error -2
+[    2.065531] brcmfmac 0000:05:00.0: Direct firmware load for brcm/brcmfmac4364-pcie.bin failed with error -2
+[    2.537630] Bluetooth: hci0: BCM: 'brcm/BCM.hcd'
