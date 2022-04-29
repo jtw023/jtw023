@@ -1,16 +1,1 @@
-1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
-    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
-    inet 127.0.0.1/8 scope host lo
-       valid_lft forever preferred_lft forever
-    inet6 ::1/128 scope host 
-       valid_lft forever preferred_lft forever
-5: enp0s20f0u2u1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
-    link/ether 00:e0:4c:68:10:02 brd ff:ff:ff:ff:ff:ff
-    inet 10.0.15.81/20 brd 10.0.15.255 scope global dynamic noprefixroute enp0s20f0u2u1
-       valid_lft 6720sec preferred_lft 6720sec
-    inet6 2001:579:92e5:8050::102b/128 scope global dynamic noprefixroute 
-       valid_lft 6723sec preferred_lft 4023sec
-    inet6 2001:579:92e5:8050:a485:3217:588d:783d/64 scope global dynamic noprefixroute 
-       valid_lft 86353sec preferred_lft 14353sec
-    inet6 fe80::ef2f:f45d:56ff:3211/64 scope link noprefixroute 
-       valid_lft forever preferred_lft forever
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1yQpSE09rNAtX7tJfwP07CG+nbqZ8RP5AFcXPb2QhElIouAVM3XFPw13vbCs3R3mQqmvAwuiOYJtJZK0AddD0XKBYBSlO7ucAYYLTSd914KIumg0f23TAvJ8Zh4SGGCynQcyKtTmwe67x85Zf7nq71LopbyQ0aDCNuDbSHQ+eRcz90DYHEywqBQJk1jm1lqy2P7Wd5PQ3wTu5EhzPWWhAR4G6KzYlNoFPCSDczPDSBEkxvO+w5FcCMS2qwzfLpmWcnNFtMpAZQQ4stScQHKMzM63uwqDbaX8T6O1HtEwqNb1jWX9u5vYeA8Layz/fY4q5puRTZeBWgv49Yq+7sE0z devin@devint_laptop
