@@ -1,12 +1,10 @@
 <h1 align="center"> Hi! I'm Jordan aka jtw023! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-<h3 align="center"> Creator, lover, and supporter of libre, community driven projects! </h3>
+<h3 align="center"> Fascinated with everything code related! </h3>
 <table style="color:blue">
   <tr>
-    <td> <br /><br />- :exclamation: 2021 goals: contribute more to the wider github community. <br /> <br />
+    <td> <br /><br />- :exclamation: 2023 goals: contribute more to the wider github community. <br /> <br />
     - :book: Currently learning everything I can get my hands on. <br /> <br />
-    - :thinking: I'm a very curious person. Fortunately, I found the software &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;life.<br /> <br />
-    - :memo: <a href="https://web-portfolio-8390e.web.app/">Web Portfolio</a> <br /> <br />
     </td>
     <td> <br /><img width="453px" alt="Jordan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtw023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=8B949E" /> </td>
   </tr>
