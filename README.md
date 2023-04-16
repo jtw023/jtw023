@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Jordan aka jtw023! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h1 align="center"> Hi! I'm Jordan aka jtw023. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 <h3 align="center"> Fascinated with everything code related! </h3>
 <table style="color:blue">
