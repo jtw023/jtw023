@@ -24,40 +24,45 @@
    </thead>
    <tbody>
       <tr align="center">
-         <td><img alt="Bash" width="26px" src="https://img.icons8.com/plasticine/100/000000/bash.png" /><br><b>Bash</b></td>
-         <td><img alt="TensorFlow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" width="20" height="20" /><br><b>TensorFlow</b></td>
-         <td><img alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /><br><b>C++</b></td>
+         <td><img alt="Bash" width="40px" src="https://img.icons8.com/plasticine/100/000000/bash.png" /><br><b>Bash</b></td>
+         <td><img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><br><b>HTML5</b></td>
+         <td><img alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" /><br><b>C++</b></td>
+      </tr>
+     <tr align="center">
+        <td><img align="center" alt="Git" width="40px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg" width="40" height="40" /><br><b>Git</b></td>
+        <td><img align="center" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /><br><b>TypeScript</b></td>
+        <td><img align="center" alt="Rust" width="40px" src="https://img.icons8.com/color/48/000000/rust-programming-language.png" width ="40" height="40" /><br><b>Rust</b></td>
       </tr>
       <tr align="center">
-         <td><img align="center" alt="Git" width="26px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg" width="20" height="20" /><br><b>Git</b></td>
-         <td><img align="center" alt="Pytorch" width="26px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" width="20" height="20" /><br><b>Pytorch</b></td>
-         <td></td>
+         <td><img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><br><b>Python</b></td>
+         <td><img align="center" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" /><br><b>CSS3</b></td>
+         <td><img alt="TensorFlow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" width="40" height="40" /><br><b>TensorFlow</b></td>
       </tr>
       <tr align="center">
-        <td><img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><br><b>Python</b></td>
-        <td><img align="center" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" width="20" height="20" /><br><b>MongoDB</b></td>
+        <td><img align="center" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /><br><b>PostgreSQL</b></td>
+        <td><img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><br><b>JavaScript</b></td>
+        <td><img align="center" alt="Pytorch" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" width="40" height="40" /><br><b>Pytorch</b></td>
+      </tr>
+      <tr align="center">
+        <td><img align="center" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" /><br><b>MongoDB</b></td>
+        <td><img align="center" alt="NodeJS" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" /><br><b>NodeJS</b></td>
         <td></td>
       </tr>
       <tr align="center">
-        <td><img align="center" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20" /><br><b>PostgreSQL</b></td>
-        <td><img align="center" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20" /><br><b>NodeJS</b></td>
+        <td><img align="center" alt="Lua" width="40px" src="https://img.icons8.com/color/48/000000/lua-language.png" width="40" height="40" /><br><b>Lua</b></td>
+        <td><img align="center" alt="Angular" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" /><br><b>Angular</b></td>
         <td></td>
       </tr>
       <tr align="center">
-        <td><img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><br><b>JavaScript</b></td>
-        <td><img align="center" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20" /><br><b>TypeScript</b></td>
-        <td></td>
-      </tr>
-      <tr align="center">
-        <td><img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><br><b>HTML5</b></td>
-        <td><img align="center" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" /><br><b>Angular</b></td>
-        <td></td>
-      </tr>
-      <tr align="center">
-        <td><img align="center" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" width="20" height="20" /><br><b>CSS3</b></td>
+        <td><img align="center" alt="Markdown" width="40px" src="https://img.icons8.com/color/48/000000/markdown.png" width="40" height="40" /><br><b>Markdown</b></td>
         <td></td>
         <td></td>
       </tr>
+     <tr align="center">
+       <td><img align="center" alt="AmazonWebServices" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon" width="80" height="80" /><br><b>Amazon Web Services</b></td>
+       <td></td>
+       <td></td>
+     </tr>
    </tbody>
 </table>
 <!-- ### Latest Blog Posts: -->
