@@ -3,9 +3,14 @@
 <h3 align="center"> Currently a Data Engineer very proficient in Amazon Redshift SQL and Python. </h3>
 <table style="color:blue">
   <tr>
-    <td> <br /><br />- ❗ Learning Binary Counting and all the lower level goodies that Zig brings. 🤗 ❗ <br /> <br />
-    - 📖 1. Create a plugin to the ghostty terminal emulator. 2. Build a json parser from scratch. 3. Build my own baby operating system. 📖 <br /> <br />
+    <td> <br /><br /> ❗ Learning Binary Counting and all the lower level goodies that Zig brings. 🤗 ❗ <br /> <br />
+    Curiosity List: 1. Create a plugin to the ghostty terminal emulator. 2. Build a json parser from scratch. 3. Build my own baby operating system. <br /> <br />
     </td>
+  </tr>
+</table>
+
+<table style="color:blue">
+  <tr>
     <td> <br /><img width="453px" alt="Jordan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtw023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=8B949E" /> </td>
   </tr>
 </table>
