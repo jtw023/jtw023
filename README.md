@@ -41,7 +41,7 @@
       <tr align="center">
          <td><img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><br><b>Python</b></td>
          <td></td>
-         <td><img align="center" alt="Zig" width="40px" src="![image](https://github.com/user-attachments/assets/14bda9ab-5cb6-43be-b797-2f5e0000362d)" /> <br><b>Zig</b></td>
+         <td><img align="center" alt="Zig" width="40px" src="https://github.com/jtw023/jtw023/blob/main/Zig.png" /> <br><b>Zig</b></td>
       </tr>
       <tr align="center">
         <td><img align="center" alt="AmazonWebServices" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon" width="80" height="80" /><br><b>Amazon Web Services</b></td>
