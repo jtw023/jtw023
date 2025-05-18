@@ -1,10 +1,10 @@
 <h1 align="center"> Hi! I'm Jordan aka jtw023. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-<h3 align="center"> Fascinated with everything code related! </h3>
+<h3 align="center"> Currently a Data Engineer very proficient in Amazon Redshift SQL and Python. </h3>
 <table style="color:blue">
   <tr>
-    <td> <br /><br />- :exclamation: 2023 goals: contribute more to the wider github community. <br /> <br />
-    - :book: Currently learning everything I can get my hands on. <br /> <br />
+    <td> <br /><br />- ❗ Learning Binary Counting and all the lower level goodies that Zig brings. 🤗 ❗ <br /> <br />
+    - 📖 1. Create a plugin to the ghostty terminal emulator. 2. Build a json parser from scratch. 3. Build my own baby operating system. 📖 <br /> <br />
     </td>
     <td> <br /><img width="453px" alt="Jordan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtw023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=8B949E" /> </td>
   </tr>
