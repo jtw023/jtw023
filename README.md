@@ -22,12 +22,12 @@
 <table align=center>
    <tbody>
       <tr align="center">
-         <td><img alt="Bash" width="40px" src="https://img.icons8.com/plasticine/100/000000/bash.png" /><br><b>Bash</b></td>
+         <td width=70px><img alt="Bash" width="40px" src="https://img.icons8.com/plasticine/100/000000/bash.png" /><br><b>Bash</b></td>
          <td><img align="center" alt="Git" width="40px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg" width="40" height="40" /><br><b>Git</b></td>
-         <td><img alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" /><br><b>C++</b></td>
         <td><img align="center" alt="Zig" width="40px" src="https://github.com/jtw023/jtw023/blob/main/Zig.png" /> <br><b>Zig</b></td>
-        <td><img align="center" alt="AmazonWebServices" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon" width="80" height="80" /><br><b>Amazon Web Services</b></td>
         <td><img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><br><b>Python</b></td>
+        <td><img alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" /><br><b>C++</b></td>
+        <td><img align="center" alt="AmazonWebServices" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon" width="80" height="80" /><br><b>Amazon Web Services</b></td>
       </tr>
    </tbody>
 </table>
