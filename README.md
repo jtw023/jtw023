@@ -40,22 +40,22 @@
       </tr>
       <tr align="center">
          <td><img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><br><b>Python</b></td>
-         <td><img align="center" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" /><br><b>CSS3</b></td>
-         <td><img alt="TensorFlow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" width="40" height="40" /><br><b>TensorFlow</b></td>
+         <td></td>
+         <td><img align="center" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" /><br><b>MongoDB</b></td>
       </tr>
       <tr align="center">
         <td><img align="center" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /><br><b>PostgreSQL</b></td>
-        <td><img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><br><b>JavaScript</b></td>
-        <td><img align="center" alt="Pytorch" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" width="40" height="40" /><br><b>Pytorch</b></td>
+        <td></td>
+        <td><img align="center" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" /><br><b>CSS3</b></td>
       </tr>
       <tr align="center">
-        <td><img align="center" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" /><br><b>MongoDB</b></td>
-        <td><img align="center" alt="NodeJS" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" /><br><b>NodeJS</b></td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
       <tr align="center">
         <td><img align="center" alt="Lua" width="40px" src="https://img.icons8.com/color/48/000000/lua-language.png" width="40" height="40" /><br><b>Lua</b></td>
-        <td><img align="center" alt="Angular" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" /><br><b>Angular</b></td>
+        <td></td>
         <td></td>
       </tr>
       <tr align="center">
