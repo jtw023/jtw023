@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Jordan aka jtw023. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-<h3 align="center"> Currently a Data Engineer very proficient in Amazon Redshift SQL and Python. </h3>
+<h2 align="center"> Currently a Data Engineer very proficient in Amazon Redshift SQL and Python. </h2>
 <div align="center">
   <tr>
     <td> <br /><br /> ❗ Learning Binary Counting and all the lower level goodies that Zig brings. 🤗 ❗ <br /> <br />
