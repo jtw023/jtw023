@@ -9,9 +9,11 @@
   </tr>
 </div>
 
-<tr align="center">
-  <td> <br /><img width="453px" alt="Jordan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtw023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=8B949E" /> </td>
-</tr>
+<div align="center">
+  <tr>
+    <td> <br /><img width="453px" alt="Jordan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtw023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=8B949E" /> </td>
+  </tr>
+</div>
 
 <br />
 <h3 align="center"> Preferred Languages and Tools </h3>
