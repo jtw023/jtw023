@@ -4,7 +4,7 @@
 <div align="center">
   <tr>
     <td> <br /><br /> ❗ Learning Binary Counting and all the lower level goodies that Zig brings. 🤗 ❗ <br /> <br />
-    <h4>Curiosity List:</h4><br /> 1. Create a plugin to the ghostty terminal emulator. <br /> 2. Build a json parser from scratch. <br /> 3. Build my own baby operating system. <br /> <br />
+    <h4>Curiosity List:</h4><br /> 1. Create a plugin to the ghostty terminal emulator. <br /> 2. Build a json parser from scratch. <br /> 3. Build a database from scratch <br /> 4. Build my own baby operating system. <br /> <br />
     </td>
   </tr>
 </div>
